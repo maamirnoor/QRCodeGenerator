@@ -1,0 +1,10 @@
+F:\8th Semester\Final\Desktop\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe.config
+F:\8th Semester\Final\Desktop\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.exe
+F:\8th Semester\Final\Desktop\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCodeGenerator.pdb
+F:\8th Semester\Final\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csprojResolveAssemblyReference.cache
+F:\8th Semester\Final\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Form1.resources
+F:\8th Semester\Final\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.Properties.Resources.resources
+F:\8th Semester\Final\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.csproj.GenerateResource.Cache
+F:\8th Semester\Final\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.exe
+F:\8th Semester\Final\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\QRCodeGenerator.pdb
+F:\8th Semester\Final\Desktop\QRCodeGenerator\QRCodeGenerator\bin\Debug\QRCoder.dll
